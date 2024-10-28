@@ -1,0 +1,1 @@
+# mintchain-auto-claim
